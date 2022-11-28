@@ -1,3 +1,0 @@
-visualization
-
-![distribution](https://github.com/cecijia/project1_ranking_model/blob/main/photo/c903c3895acc7a0e436e8068d2b5223.png)
